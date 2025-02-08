@@ -1,7 +1,7 @@
     local library = loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/VNT-UNIVERSAL/MyCode/main/UILib"))()
     local w1 = library:Window("CDVN")
     w1:Toggle(
-        "AutoHeal",
+        "Auto Lay Heal",
         "BangGac",
         false,
         function(toggled)
